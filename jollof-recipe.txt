@@ -2,6 +2,7 @@ Ingredients:
  - Rice 
  - Blended mixture of pepper, Tomatoes and onions
  - Diced liver
+ - Chopped beef
  - Vegetable oil
  - Salt
  - Seasoning
@@ -9,5 +10,5 @@ Ingredients:
 Directions:
  1. Fry the blended mixture in some vegetable oil.
  2. Add salt and seasoning.
- 3. Add the diced liver and rice.
+ 3. Add the diced liver, the chopped beef and rice.
  4. Add enough water to cook the rice.
